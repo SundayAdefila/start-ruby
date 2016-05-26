@@ -1,4 +1,4 @@
-# Start Ruby
+# Start Ruby [![Build Status](https://travis-ci.org/SundayAdefila/start-ruby.svg?branch=integrating-travisCI)](https://travis-ci.org/SundayAdefila/start-ruby)
 
 Payfort Start makes accepting payments in the Middle East ridiculously easy. Sign up for an account at [start.payfort.com](https://start.payfort.com).
 
